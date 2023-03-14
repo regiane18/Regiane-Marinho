@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://https://github.com/regiane18">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Regiane18&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Regiane18&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=regiane18&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regiane18&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -21,7 +21,7 @@
   ##
   
   <div>
-  <a href="https://https://www.linkedin.com/in/regiane-marinho-9518b3252//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://https://www.instagram.com/regiimarinhoopazdasilva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/regiane-marinho-9518b3252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/regiimarinhoopazdasilva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="regiane.miguel.noah@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
